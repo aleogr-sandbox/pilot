@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/aleogr/aleogr/main/.claude-plugin/schemas/project.schema.json",
+  "version": 1,
+  "name": "pilot",
+  "repo": {
+    "provider": "github",
+    "owner": "aleogr-sandbox",
+    "name": "pilot",
+    "visibility": "public",
+    "description": "Reference project of aleogr: status pages per tenant",
+    "topics": [],
+    "settings": {
+      "mergeCommit": true,
+      "squash": true,
+      "rebase": false,
+      "deleteBranchOnMerge": true,
+      "issues": true,
+      "wiki": false,
+      "projects": false
+    }
+  }
+}
