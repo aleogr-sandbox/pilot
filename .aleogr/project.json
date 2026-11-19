@@ -18,5 +18,9 @@
       "wiki": false,
       "projects": false
     }
-  }
+  },
+  "components": [
+    { "name": "admin", "stack": "go", "path": "admin", "version": "1.27" },
+    { "name": "status", "stack": "go", "path": "status", "version": "1.27" }
+  ]
 }
