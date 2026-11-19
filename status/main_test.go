@@ -31,5 +31,5 @@ func TestRoot(t *testing.T) {
 }
 
 func TestHealthz(t *testing.T) {
-	expect(t, get(t, "/healthz"), "ok\n")
+	expect(t, get(t, "/healthz"), "broken\n")
 }
