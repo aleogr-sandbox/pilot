@@ -8,7 +8,7 @@
     "name": "pilot",
     "visibility": "public",
     "description": "Reference project of aleogr: status pages per tenant",
-    "topics": ["demo", "go", "reference", "status-page"],
+    "topics": ["cloud-run", "demo", "go", "reference", "status-page"],
     "settings": {
       "mergeCommit": true,
       "squash": true,
